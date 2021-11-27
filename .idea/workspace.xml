@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0659943-ff46-4ac1-b1c2-283e350a1ed4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="206A00XrlFglbZN9xXn0Awlk2U3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Projekty_Java/Parking" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.pawit.NYT.Articles.adapter" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.pawit.NYT.Articles.adapter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.NytArticlesApplication">
+    <configuration name="NytApiConnector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.pawit.NYT.Articles.adapter.NytApiConnector" />
+      <module name="NYT-Articles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.pawit.NYT.Articles.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NytApiConnectorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NYT-Articles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.pawit.NYT.Articles.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.pawit.NYT.Articles.adapter" />
+      <option name="MAIN_CLASS_NAME" value="pl.pawit.NYT.Articles.adapter.NytApiConnectorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NytApiConnectorTest.createPOJOArticlesFromJson_statusCode_oK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NYT-Articles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.pawit.NYT.Articles.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.pawit.NYT.Articles.adapter" />
+      <option name="MAIN_CLASS_NAME" value="pl.pawit.NYT.Articles.adapter.NytApiConnectorTest" />
+      <option name="METHOD_NAME" value="createPOJOArticlesFromJson_statusCode_oK" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NytArticlesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="NYT-Articles" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pl.pawit.NYT.Articles.NytArticlesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NytApiConnectorTest" />
+        <item itemvalue="JUnit.NytApiConnectorTest.createPOJOArticlesFromJson_statusCode_oK" />
+        <item itemvalue="Application.NytApiConnector" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0659943-ff46-4ac1-b1c2-283e350a1ed4" name="Changes" comment="" />
+      <created>1635354437431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635354437431</updated>
+      <workItem from="1635354438720" duration="3566000" />
+      <workItem from="1635361997977" duration="2620000" />
+      <workItem from="1635398562618" duration="8325000" />
+      <workItem from="1635418298087" duration="488000" />
+      <workItem from="1635418804551" duration="4224000" />
+      <workItem from="1635435845953" duration="6781000" />
+      <workItem from="1635488561781" duration="6623000" />
+      <workItem from="1635584438502" duration="3029000" />
+      <workItem from="1635606760078" duration="7022000" />
+      <workItem from="1635691779841" duration="5992000" />
+      <workItem from="1635757111793" duration="33000" />
+      <workItem from="1635757166510" duration="6649000" />
+      <workItem from="1638026684347" duration="852000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
